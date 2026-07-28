@@ -15,7 +15,7 @@
 
 <p align="center">
 <image src="screenshots/main_menu.png" width="500" height="500">
-<image src="screenshots/info.png" width="500" height="500">
+<image src="screenshots/info_.png" width="500" height="500">
 <image src="screenshots/game process.png" width="500" height="500">
 </p>
 
